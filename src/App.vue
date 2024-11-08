@@ -26,6 +26,7 @@
         <img :src="image" alt="Professional Image" class="img-fluid rounded-circle mx-auto d-block image">
         </header>
       </div>
+    <router-view></router-view>
     </div>
  </template>
 
